@@ -12,13 +12,13 @@ Improve model performance using feature engineering and regression techniques
 
 
 ## 📊 Dataset
-Train Dataset: ~550,000 rows
-Test Dataset: ~233,000 rows
-Features include:
-User demographics (Age, Gender, Occupation, Marital Status)
-City information
-Product categories
-Purchase amount (target variable)
+1. Train Dataset: ~550,000 rows
+2. Test Dataset: ~233,000 rows
+3. Features include:
+  User demographics (Age, Gender, Occupation, Marital Status)
+  City information
+  Product categories
+  Purchase amount (target variable)
 
 
 ## ⚙️ Project Pipeline
@@ -70,11 +70,11 @@ Polynomial + Ridge (Tuned)	~2520–2535 ✅
 
 
 ## 🧠 Key Insights
-💼 Age group 26–35 contributes the highest spending
-👨 Male customers tend to spend more than female customers
-🏙️ Customers from urban cities (B & C) spend more
-🛍️ Certain product categories dominate revenue
-🔁 Repeat buyers (high user_avg_purchase) are key revenue drivers
+##### 💼 Age group 26–35 contributes the highest spending
+##### 👨 Male customers tend to spend more than female customers
+##### 🏙️ Customers from urban cities (B & C) spend more
+##### 🛍️ Certain product categories dominate revenue
+##### 🔁 Repeat buyers (high user_avg_purchase) are key revenue drivers
 
 
 ## 💡 Business Impact
